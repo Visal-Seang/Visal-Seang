@@ -7,4 +7,6 @@
 
   Feel free to reach out if you'd like to connect or collaborate on something amazing!
   
-<img src="https://images.unsplash.com/photo-1607706189992-eae578626c86?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y29kaW5nfGVufDB8fDB8fHww" style="width:500px" />
+<div style="display: flex;flex-direction: column;flex-wrap: nowrap;justify-content: flex-start;align-items: center;align-content: stretch">
+  <img src="https://wallpapers.com/images/hd/coding-background-9izlympnd0ovmpli.jpg" style="width:100%;max-width:800px; margin-bottom:45px;" />
+</div>
