@@ -7,6 +7,6 @@
 
   Feel free to reach out if you'd like to connect or collaborate on something amazing!
   
-<div style="display: flex;flex-direction: column;flex-wrap: nowrap;justify-content: flex-start;align-items: center;align-content: stretch">
-  <img src="https://wallpapers.com/images/hd/coding-background-9izlympnd0ovmpli.jpg" style="width:100%;max-width:800px; margin-bottom:45px;" />
+<div style="display: flex;flex-wrap: nowrap;justify-content: center;align-items: center;">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,docker,aws,postgres,bootstrap,php,laravel,cs,ts,js,tailwind,git&perline=14" />
 </div>
