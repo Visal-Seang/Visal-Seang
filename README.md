@@ -8,5 +8,5 @@
   Feel free to reach out if you'd like to connect or collaborate on something amazing!
   
 <div style="display: flex;flex-wrap: nowrap;justify-content: center;align-items: center;">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,docker,aws,postgres,bootstrap,php,laravel,cs,ts,js,tailwind,git&perline=14" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,docker,aws,postgres,bootstrap,php,laravel,ts,js,tailwind,git&perline=14" />
 </div>
