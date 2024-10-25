@@ -1,9 +1,8 @@
 ### Hi there 👋, I'm Visal Seang!
 - 👀 I’m passionate about **Software Engineering** and building impactful solutions.
-- 🌱 Currently learning **AI/ML with Python** to expand my knowledge and skills.
 - 💼 Proficient in web development with experience in **Next.js**, **Laravel**, **React JS**, **CI/CD** and more.
 - 💡 Always eager to explore new technologies and challenge myself with innovative ideas.
-
+- 📫 How to reach me **visal3626@gmail.com**</br></br>
   Feel free to reach out if you'd like to connect or collaborate on something amazing!</br> </br>
   <a href="https://visalseang.vercel.app/">Explore me more on my portfolio website</a></br>
   
