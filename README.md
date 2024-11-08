@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Visal Seang!
 - 👀 I’m passionate about **Software Engineering** and building impactful solutions.
-- 💼 Proficient in web development with experience in **Next.js**, **Laravel**, **React JS**, **DevOps and DevSecOps** and more.
+- 💼 Proficient in web development with experience in **Next.js**, **Laravel**, **React JS**, **DevOps, DevSecOps** and more.
 - 💡 Always eager to explore new technologies and challenge myself with innovative ideas.
 - 📫 How to reach me **visal3626@gmail.com**</br></br>
   Feel free to reach out if you'd like to connect or collaborate on something amazing!</br> </br>
