@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Visal Seang!
+<h1 align="center"> Hi there 👋, I'm Visal Seang!</h1>
+
 - 👀 I’m passionate about **Software Engineering** and building impactful solutions.
 - 💼 Proficient in web development with experience in **Next.js**, **Laravel**, **React JS**, **Cloud Computing**, **DevOps, DevSecOps** and more.
 - 💡 Always eager to explore new technologies and challenge myself with innovative ideas.
