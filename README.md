@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm Visal Seang!</h1>
+<h1 align="center"> Hi there 👋, I'm Visal Seang</h1>
 
 - 👀 I’m passionate about **Software Engineering** and building impactful solutions.
 - 💼 Proficient in web development with experience in **Next js**, **Laravel**, **React JS**, **Cloud Computing**, **DevOps, DevSecOps** and more.
