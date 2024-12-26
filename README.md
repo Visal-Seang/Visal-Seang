@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm Visal Seang!</h1>
+<h1 align="center"> Hi there 👋, I'm Visal Seang</h1>
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Visal-Seang&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </p>
