@@ -9,7 +9,7 @@
 - 📫 How to reach me **visal3626@gmail.com**</br></br>
   <a href="https://visalseang.me" target="_blank">Get in touch on my portfolio website</a>
     <hr/>
-  <p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,docker,aws,postgres,bootstrap,php,laravel,ts,js,tailwind,git,jenkins&perline=14" /></p>
+  <p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,docker,aws,postgres,bootstrap,php,laravel,ts,js,tailwind,git,mysql,nginx,jenkins&perline=14" /></p>
   <hr/>
 
 
