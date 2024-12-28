@@ -1,7 +1,4 @@
 <h1 align="center"> Hi there 👋, I'm Visal Seang</h1>
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Visal-Seang&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</p>
 
 - 👀 I’m passionate about **Software Engineering** and building impactful solutions.
 - 💼 Proficient in web development with experience in **Next js**, **Laravel**, **React JS**, **Cloud Computing**, **DevOps, DevSecOps** and more.
