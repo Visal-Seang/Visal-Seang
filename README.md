@@ -2,7 +2,7 @@
 
 - 👀 I’m passionate about **Software Engineering** and building impactful solutions.
 - 💼 Proficient in web development with experience in **Next js**, **Laravel**, **React JS**, **Cloud Computing**, **DevOps, DevSecOps** and more.
-- 💡 Always eager to explore new technologies and challenge myself with innovative ideas.
+- 💡 Always eager to explore new technologies and challenges myself with innovative ideas.
 - 📫 How to reach me **visal3626@gmail.com**</br></br>
   <a href="https://visalseang.me" target="_blank">Get in Touch on my Portfolio Website</a>
     <hr/>
