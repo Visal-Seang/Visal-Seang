@@ -5,7 +5,6 @@
 - 💡 Always eager to explore new technologies and challenges myself with innovative ideas.
 - 📫 How to reach me **visal3626@gmail.com**</br></br>
   <a href="https://visalseang.me" target="_blank">Get in Touch on my Portfolio Website</a>
-    <hr/>
 <!--   <p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,docker,postgres,php,laravel,ts,js,tailwind,git,mysql,nginx,elixir,jenkins&perline=14" /></p>
   <hr/> -->
 
